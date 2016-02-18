@@ -1,0 +1,28 @@
+name: soundscrapers
+favicon: null
+layout_spectrum: 0.34812469757162035
+typography_spectrum: 0.21684776269830763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.46283157309517264
+  lightness: 0.34555376088246703
+  saturation: 0.374017822323367
+  rhythmicContrast: 0.3478037577588111
+purpose: []
