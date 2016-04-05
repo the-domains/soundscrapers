@@ -1,7 +1,7 @@
 name: soundscrapers
 favicon: null
-layout_spectrum: 0.80177
-typography_spectrum: 0.34703
+layout_spectrum: 1
+typography_spectrum: 0.52514
 title: Sound and Space
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.46283157309517264
-  lightness: 0.34555376088246703
-  saturation: 0.374017822323367
-  rhythmicContrast: 0.3478037577588111
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
